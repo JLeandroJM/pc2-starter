@@ -44,7 +44,6 @@ export default {
       :currency="country.currency"
       :region="country.region"
       :code="country.iso2"
-
     ></CountryComponent>
   </div>
 </template>
